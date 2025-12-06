@@ -30,8 +30,8 @@ from roboflow import Roboflow
         
 
 
-API_KEY = "AIzaSyDza_iTyCqGKuWaU3Zcud7ZI2hZoDrLdic"
-ROBOFLOW_API_KEY = "25QYSH3kE9v3kAl7utg1"
+API_KEY = "GOOGLE_MAPS_API_KEY"
+ROBOFLOW_API_KEY = "ROBOFLOW_API_KEY"
 ROBOFLOW_PROJECT_ID = "new-chairs-tables-skhwo"
 ROBOFLOW_VERSION = 2
 
