@@ -49,8 +49,8 @@ The intelligent navigation system that processes visual data and provides path g
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/I_Cant_See.git
-   cd I_Cant_See
+   git clone https://github.com/yourusername/SafeStride.git
+   cd SafeStride
    ```
 
 2. Set up Python backend
