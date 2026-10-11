@@ -1,4 +1,4 @@
-# I Cant See
+# SafeStride
 
 An AI-powered navigation system designed to provide the visually impaired with real-time environmental awareness and navigation guidance.
 
